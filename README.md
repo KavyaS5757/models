@@ -8,5 +8,8 @@ https://www.kaggle.com/kavyasmallika/nuclei-semantic-segmentation
 
 https://www.kaggle.com/kavyasmallika/lstm-sample
 
-# 
+# neural machine translation attention mechanism
 https://www.kaggle.com/kavyasmallika/neural-machine-translation-attention-mechan
+
+# Prediction heat flux detection
+https://www.kaggle.com/code/kavyasmallika/s3e15-ensemble-knn-imputation-score-0-72854
